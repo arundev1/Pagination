@@ -496,7 +496,7 @@ const data =[
     },
     {
       "id": "100",
-      "name": "Arlene Kassulke",
+      "name": "Arlene Kassulki",
       "email": "Josiane_Smith@yahoo.com"
     }
   ]
